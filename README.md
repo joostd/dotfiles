@@ -6,7 +6,6 @@ My personal dotfiles
 Run
 
 	git clone git@github.com:joostd/dotfiles.git ~/.dotfiles
-	cd ~/.dotfiles
 
 Symlink to anything needed, e.g
 
